@@ -12,10 +12,10 @@ This project is a React Native mobile application built with Expo and React Rout
 ## App Screenshots
 
 ### Home Screen
-![Home Screen](./home-screen-screenshot.PNG)
+<img src="./home-screen-screenshot.PNG" alt="Home Screen" width="300" />
 
 ### About Screen
-![About Screen](./about-screen-screenshot.jpeg)
+<img src="./about-screen-screenshot.jpeg" alt="About Screen" width="300" />
 
 ## Running the Project on Your Mobile Device
 

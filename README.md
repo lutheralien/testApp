@@ -9,6 +9,14 @@ This project is a React Native mobile application built with Expo and React Rout
 - Simple screens with navigation links between them
 - Ready for expansion with additional routes and components
 
+## App Screenshots
+
+### Home Screen
+![Home Screen](./home-screen-screenshot.PNG)
+
+### About Screen
+![About Screen](./about-screen-screenshot.jpeg)
+
 ## Running the Project on Your Mobile Device
 
 ### Prerequisites
